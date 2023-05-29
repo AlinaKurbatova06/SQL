@@ -1,0 +1,15 @@
+﻿<Window x:Class="ИС_Военный_округ.IndexWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ИС_Военный_округ"
+        mc:Ignorable="d"
+        Title="ИС Военный округ" Height="220" Width="300" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="15,15,15,15">
+        <Button Margin="0,7,0,7" Content="Список видов войск" Click="Button_Click" />
+        <Button Margin="0,7,0,7" Content="Список мест дислокации" Click="Button_Click_1" />
+        <Button Margin="0,7,0,7" Content="Список воинских частей" Click="Button_Click_2" />
+        <Button Margin="0,7,0,7" Content="Список военнослужащих" Click="Button_Click_3" />
+    </StackPanel>
+</Window>

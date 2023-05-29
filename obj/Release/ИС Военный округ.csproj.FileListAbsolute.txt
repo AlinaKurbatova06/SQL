@@ -1,0 +1,96 @@
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\bin\Release\ИС Военный округ.exe.config
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\bin\Release\ИС Военный округ.exe
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\bin\Release\ИС Военный округ.pdb
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.csproj.AssemblyReference.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.csproj.SuggestedBindingRedirects.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddChast.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddMesto.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddRota.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddSoldier.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddVid.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ChastiWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditChast.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditMesto.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditRota.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditSoldier.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditVid.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\IndexWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\MainWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\MestaWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\RotaWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\SoldierWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\VidWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\App.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ_MarkupCompile.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ_MarkupCompile.lref
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddChast.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddMesto.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddRota.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddSoldier.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\AddVid.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ChastiWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditChast.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditMesto.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditRota.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditSoldier.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\EditVid.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\IndexWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\MainWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\MestaWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\RotaWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\SoldierWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\VidWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.g.resources
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС_Военный_округ.Properties.Resources.resources
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.csproj.GenerateResource.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.csproj.CoreCompileInputs.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.exe
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Kur\ИС Военный округ\obj\Release\ИС Военный округ.pdb
+C:\Users\KAB6-7\Desktop\ИС Военный округ\bin\Release\ИС Военный округ.exe.config
+C:\Users\KAB6-7\Desktop\ИС Военный округ\bin\Release\ИС Военный округ.exe
+C:\Users\KAB6-7\Desktop\ИС Военный округ\bin\Release\ИС Военный округ.pdb
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.csproj.AssemblyReference.cache
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddChast.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddMesto.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddRota.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddSoldier.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddVid.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ChastiWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditChast.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditMesto.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditRota.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditSoldier.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditVid.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\IndexWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\MainWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\MestaWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\RotaWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\SoldierWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\VidWindow.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\App.g.cs
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ_MarkupCompile.cache
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ_MarkupCompile.lref
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddChast.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddMesto.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddRota.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddSoldier.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\AddVid.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ChastiWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditChast.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditMesto.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditRota.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditSoldier.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\EditVid.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\IndexWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\MainWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\MestaWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\RotaWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\SoldierWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\VidWindow.baml
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.g.resources
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС_Военный_округ.Properties.Resources.resources
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.csproj.GenerateResource.cache
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.exe
+C:\Users\KAB6-7\Desktop\ИС Военный округ\obj\Release\ИС Военный округ.pdb

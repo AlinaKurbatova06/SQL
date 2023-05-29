@@ -1,0 +1,18 @@
+﻿<Window x:Class="ИС_Военный_округ.EditChast"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ИС_Военный_округ"
+        mc:Ignorable="d"
+        Title="Редактировать часть" Height="320" Width="200" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <StackPanel>
+        <Label Margin="5,10,5,0" Content="Наименование:" HorizontalAlignment="Center" />
+        <TextBox Margin="5,0,5,10" Name="name" />
+        <Label Margin="5,10,5,0" Content="Место дислокации:" HorizontalAlignment="Center" />
+        <ComboBox Margin="5,0,5,10" Name="address" />
+        <Label Margin="5,10,5,0" Content="Вид войска:" HorizontalAlignment="Center" />
+        <ComboBox Margin="5,0,5,10" Name="type" />
+        <Button Margin="5,10,5,10" Content="Сохранить" Click="Button_Click" />
+    </StackPanel>
+</Window>

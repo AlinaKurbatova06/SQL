@@ -1,0 +1,39 @@
+﻿<Window x:Class="ИС_Военный_округ.SoldierWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ИС_Военный_округ"
+        mc:Ignorable="d"
+        Title="Список военнослужащих" Height="450" Width="1200" Loaded="Window_Loaded"  WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+            <Button Content="Добавить" Width="150" Margin="10,0,10,0" Click="Button_Click" />
+            <Button Content="Редактировать" Width="150" Margin="10,0,10,0" Click="Button_Click_1" />
+            <Button Content="Печать таблицы" Width="150" Margin="10,0,10,0" Click="Button_Click_2" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+            <Label Content="Воинская часть:" />
+            <ComboBox Name="chast" Width="150" Margin="10,0,10,0" SelectionChanged="ComboBox_SelectionChanged" />
+            <Label Content="Должность:" />
+            <ComboBox Name="rank" Width="150" Margin="10,0,10,0" SelectionChanged="rank_SelectionChanged" />
+            <Label Content="Год призыва:" />
+            <ComboBox Name="priziv" Width="150" Margin="10,0,10,0" SelectionChanged="priziv_SelectionChanged" />
+            <Button Content="Очистить фильтр" Margin="10,0,10,0" Width="200" Click="Button_Click_4"/>
+        </StackPanel>
+        <DataGrid Name="dataGrid" Height="400" Margin="0,5,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" Width="50" />
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding Path=Family}" Width="150" />
+                <DataGridTextColumn Header="Часть" Binding="{Binding Path=Chast}" Width="150" />
+                <DataGridTextColumn Header="Рота" Binding="{Binding Path=Rota}" Width="75" />
+                <DataGridTextColumn Header="Должность" Binding="{Binding Path=Rank}" Width="150" />
+                <DataGridTextColumn Header="Год рождения" Binding="{Binding Path=Year}" Width="100" />
+                <DataGridTextColumn Header="Год призыва" Binding="{Binding Path=Year2}" Width="100" />
+                <DataGridTextColumn Header="Выслуга" Binding="{Binding Path=Visluga}" Width="75" />
+                <DataGridTextColumn Header="Награды" Binding="{Binding Path=Nagradi}" Width="150" />
+                <DataGridTextColumn Header="Участие в мероприятиях" Binding="{Binding Path=Uchastie}" Width="150" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

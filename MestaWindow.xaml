@@ -1,0 +1,25 @@
+﻿<Window x:Class="ИС_Военный_округ.MestaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ИС_Военный_округ"
+        mc:Ignorable="d"
+        Title="Места дислокации" Height="450" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+            <Button Content="Добавить" Width="150" Margin="10,0,10,0" Click="Button_Click" />
+            <Button Content="Редактировать" Width="150" Margin="10,0,10,0" Click="Button_Click_1" />
+            <Button Content="Удалить" Width="150" Margin="10,0,10,0" Click="Button_Click_2" />
+        </StackPanel>
+        <DataGrid Name="dataGrid" Height="400" Margin="0,5,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" Width="100" />
+                <DataGridTextColumn Header="Страна" Binding="{Binding Path=Country}" Width="100" />
+                <DataGridTextColumn Header="Город" Binding="{Binding Path=City}" Width="100" />
+                <DataGridTextColumn Header="Адрес" Binding="{Binding Path=Address}" Width="100" />
+                <DataGridTextColumn Header="Площадь" Binding="{Binding Path=Square}" Width="100" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

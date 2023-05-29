@@ -1,0 +1,44 @@
+﻿<Window x:Class="ИС_Военный_округ.AddSoldier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ИС_Военный_округ"
+        mc:Ignorable="d"
+        Title="Добавить военнослужащего" Height="340" Width="450" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5,10,5,0" Width="200" Content="Фамилия:" HorizontalAlignment="Center" />
+            <Label Margin="5,10,5,0" Width="200" Content="Часть:" HorizontalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBox Margin="5,0,5,10" Width="200" Name="family" />
+            <ComboBox Margin="5,0,5,10" Width="200" Name="chast" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5,10,5,0" Width="200" Content="Рота:" HorizontalAlignment="Center" />
+            <Label Margin="5,10,5,0" Width="200" Content="Должность:" HorizontalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <ComboBox Margin="5,0,5,10" Width="200" Name="rota" />
+            <TextBox Margin="5,0,5,10" Width="200" Name="rank" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5,10,5,0" Width="200" Content="Год рождения:" HorizontalAlignment="Center" />
+            <Label Margin="5,10,5,0" Width="200" Content="Год призыва:" HorizontalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBox Margin="5,0,5,10" Width="200" Name="year" />
+            <TextBox Margin="5,0,5,10" Width="200" Name="year2" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="5,10,5,0" Width="200" Content="Награды:" HorizontalAlignment="Center" />
+            <Label Margin="5,10,5,0" Width="200" Content="Участие в военных мероприятиях:" HorizontalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBox Margin="5,0,5,10" Width="200" Name="nagr" />
+            <TextBox Margin="5,0,5,10" Width="200" Name="uch" />
+        </StackPanel>
+        <Button Margin="5,10,5,10" Content="Создать" Click="Button_Click" />
+    </StackPanel>
+</Window>
